@@ -1,0 +1,12 @@
+{
+  "name": "text-to-speech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+     "build": "echo \"Building your new static site!\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
